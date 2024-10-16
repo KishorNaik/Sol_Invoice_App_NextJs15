@@ -39,14 +39,14 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## Resource
 
-https://nextjs.org/docs/canary
-https://nextjs.org/blog/next-15-rc
-https://ui.shadcn.com/
-https://lucide.dev/
-https://tailwindcss.com/
-https://orm.drizzle.team/
-https://xata.io/docs
-https://clerk.com/docs
-https://docs.stripe.com/
-https://resend.com/
-https://react.email/
+- https://nextjs.org/docs/canary
+- https://nextjs.org/blog/next-15-rc
+- https://ui.shadcn.com/
+- https://lucide.dev/
+- https://tailwindcss.com/
+- https://orm.drizzle.team/
+- https://xata.io/docs
+- https://clerk.com/docs
+- https://docs.stripe.com/
+- https://resend.com/
+- https://react.email/
