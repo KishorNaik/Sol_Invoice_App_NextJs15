@@ -1,4 +1,4 @@
-# Full stack Invoice App with Next.Js 15, shadcn, tailwind, drizzle, xata, clerk and stripe.
+# Full stack Invoice App(Sample Demo) with Next.Js 15, shadcn, tailwind, drizzle, xata, clerk and stripe.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
